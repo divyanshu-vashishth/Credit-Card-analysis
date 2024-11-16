@@ -1,19 +1,32 @@
-## Credit Card Data Analysis
+# Credit Card Data Analysis
 
-Objective : Analyze Credit Card Transaction , Customer Report 
+## Overview
+Comprehensive analysis of credit card transactions and customer behavior patterns.
 
-# Insights
-WoW change:
-• Revenue increased by 28.8%,
-• Total Transaction Amt & Count increased by xx% & xx%
-• Customer count increased by xx%
-Overview YTD:
-• Overall revenue is 57M
-• Total interest is 8M
-• Total transaction amount is 46M
-• Male customers are contributing more in revenue 31M, female 26M
-• Blue & Silver credit card are contributing to 93% of overall
-transactions
-• TX, NY & CA is contributing to 68%
-• Overall Activation rate is 57.5%
-• Overall Delinquent rate is 6.06%
+## Key Performance Metrics (YTD)
+
+### Revenue & Financial Metrics
+- 📈 Revenue: $57M (28.8% WoW increase)
+- 💰 Interest Generated: $8M
+- 💳 Total Transaction Volume: $46M
+
+### Customer Segmentation
+- 👥 Gender Distribution:
+    - Male: $31M
+    - Female: $26M
+
+### Product Performance
+- 🏆 Top Performing Cards:
+    - Blue & Silver cards (93% of transactions)
+
+### Geographic Analysis
+- 🗺️ Top Contributing States:
+    - TX, NY & CA (68% of total volume)
+
+### Key Ratios
+- ✅ Activation Rate: 57.5%
+- ⚠️ Delinquency Rate: 6.06%
+
+## Notes
+- All figures are based on Year-to-Date (YTD) data
+- Week-over-Week (WoW) comparison shows strong growth momentum
